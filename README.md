@@ -2,6 +2,7 @@
 <p>Student at Reichman University, Israel🌟.</p>
 <br>
 - 🌱 I’m currently learning Web Development and other programming languages
+
 - 📫 How to reach me **oron.paz26@gmail.com**
 <br>
 <h4 align="left">Connect with me:</h4>
