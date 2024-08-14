@@ -13,4 +13,4 @@
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
-<p>C++, C, Java, Python, Javascript, HTML, CSS, React, </p>
+<p>C++, C, Java, Python, Javascript, HTML, CSS, React, Next </p>
