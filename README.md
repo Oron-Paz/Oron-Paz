@@ -1,7 +1,7 @@
 <h4>Hey , I'm Oron Paz</h4>
 <p>Student at Reichman University, Israel.</p>
 
-- I’m currently learning Web Development as well as machine learning and exploring programming ideas.
+- I’m intrested in computer vision, embedded systems, AI, as well as Web Developmen.
 
 - How to reach me **oron.paz26@gmail.com**
   
