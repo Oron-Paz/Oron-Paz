@@ -1,7 +1,7 @@
 <h4>Hey , I'm Oron Paz</h4>
-<p>Student at Reichman University, Israel.</p>
+<p>BSc Student for CS at Reichman University, Israel.</p>
 
-- I’m intrested in computer vision, embedded systems, AI, as well as web dev.
+- I’m intrested in computer vision, embedded systems, AI, and more.
 
 - How to reach me **oron.paz26@gmail.com**
   
